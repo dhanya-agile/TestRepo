@@ -1,0 +1,18 @@
+{
+  "managerType": "Test",
+  "Products": [
+    {
+      "ProductName": "PackageAxiTesting",
+      "ProductDescription": "Placing Packages in repo for testing new",
+      "ProductVersion": "11.3",
+      "ProductAuthor": "Admin",
+      "ProductCreatedOn": "2026-05-20T03:02:47Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ProductAxiTesting"
+      ],
+      "Category": "Enterprise"
+        }
+    ]
+}
