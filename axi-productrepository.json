@@ -27,6 +27,19 @@
         "ImportTest"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "ImpTest2",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "tamilarasan",
+      "ProductCreatedOn": "2026-10-14T05:08:11Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ImpTest2"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
