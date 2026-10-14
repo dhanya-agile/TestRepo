@@ -14,6 +14,19 @@
         "Test"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "ImportTest",
+      "ProductDescription": "Account Receivable testing",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-10-14T04:34:42Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ImportTest"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
