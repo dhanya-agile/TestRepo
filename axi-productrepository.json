@@ -1,0 +1,19 @@
+{
+  "ManagerType": "Product",
+  "Products": [
+    {
+      "ProductName": "Account Test",
+      "ProductDescription": "Account Receivable testing",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-10-14T04:23:58Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Account",
+        "Test"
+      ],
+      "Category": "Enterprise"
+    }
+  ]
+}
